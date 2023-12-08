@@ -1,0 +1,32 @@
+#header,
+#inner.wrapper {
+  margin: 0em;
+}
+
+#outer.wrapper {
+  background-color: #918f8a;
+  background-image: url("https://i.ibb.co/gtJB6yv/Slytherin-House-Pride-Collection-V2-2.png"), url("https://i.ibb.co/98rSxqg/Fon-Bricks.png");
+  background-repeat: no-repeat, repeat;
+  background-position: left 50px, left top;
+  background-attachment: fixed, fixed;
+  background-size: auto 150px, auto;
+}
+
+#header #search .text {
+  width: 60%;
+}
+
+#header .heading a {
+  position: absolute;
+  right: 0px;
+  top: 155px;
+}
+
+#greeting li,
+#greeting li a {
+  text-align: right;
+}
+
+#greeting .user > li {
+  margin: 0 0.125em !important;
+}
