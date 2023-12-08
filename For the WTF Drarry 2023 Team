@@ -1,0 +1,519 @@
+#header h1 sup,
+#header .button,
+#header .landmark,
+#header .logo {
+  display: none;
+}
+
+#header,
+#inner.wrapper {
+  margin: 0em auto 0em auto;
+  max-width: 980px;
+}
+
+#main,
+#inner,
+body,
+.listbox .index {
+  background: #e5e2db;
+}
+
+#footer,
+#footer .menu,
+#footer a {
+  color: #e5e2db;
+}
+
+#footer h4 {
+  color: #e5e2db !important;
+}
+
+#footer {
+  float: none;
+  border: none;
+}
+
+.blurb h4 a:link {
+  color: #780514 !important;
+}
+
+#header .search .text {
+  width: 80%;
+}
+
+#outer.wrapper {
+  background: #6d7f85;
+  padding-top: 0.5em;
+}
+
+#inner.wrapper {
+  padding: 1em 0.5em 0.5em 0.5em;
+  background: #2e5a5b;
+  box-shadow: 0 0 20px #000;
+}
+
+#main {
+  border: 1px solid #2e5a5b;
+}
+
+#header .heading {
+  height: 500px;
+  background: none;
+  float: right;
+}
+
+#header {
+  background-color: #2e5a5b;
+  background-image: url("https://images2.imgbox.com/af/ab/g6EpK537_o.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: auto 470px;
+  border-top: 0.5em solid #2e5a5b;
+  border-left: 0.5em solid #2e5a5b;
+  border-right: 0.5em solid #2e5a5b;
+  box-shadow: 0 0 20px #000;
+}
+
+#header .primary {
+  box-shadow: none;
+  background: #e5e2db;
+}
+
+#greeting li,
+#greeting li a {
+  color: #edf6f1 !important;
+}
+
+#header .primary li,
+#header .primary li a {
+  color: #4A4747 !important;
+}
+
+#greeting li,
+#greeting li a {
+  background: #2e5a5b;
+}
+
+#greeting {
+  background: none;
+  margin-right: 0em;
+  position: absolute;
+  right: 0em;
+  top: 470px;
+}
+
+#greeting li {
+  margin-right: 0.3em !important;
+}
+
+#greeting li:last-child {
+  margin-right: 0em !important;
+}
+
+#greeting .dropdown .menu li {
+  margin: 0 0.125em !important;
+}
+
+#greeting .menu {
+  width: 16em;
+}
+
+#greeting .icon img {
+  border: 2px solid #e5e2db;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #edf6f1;
+}
+
+#header .heading a {
+  color: #780514;
+  position: absolute;
+  right: 40%;
+  top: 0em;
+}
+
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  color: #780514;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+a.tag:hover,
+a.tag:focus,
+#dashboard a:hover,
+#dashboard a:focus,
+#dashboard .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  background: #2e5a5b !important;
+  color: #fff !important;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .dropdown .menu a,
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#greeting .dropdown .menu a {
+  background: #edf6f1 !important;
+  color: #4A4747 !important;
+}
+
+#dashboard {
+  background: #edf6f1 !important;
+  color: #4A4747 !important;
+  border: 2px solid #bac8c8;
+  box-shadow: 0 0 5px #000;
+}
+
+#dashboard.own {
+  background: #f9f9f9 !important;
+  color: #4A4747 !important;
+  border: 2px solid #bac8c8;
+  box-shadow: 0 0 5px #000;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px solid #2e5a5b;
+}
+
+#greeting .current,
+#greeting .dropdown:hover li,
+#greeting .dropdown:focus li {
+  box-shadow: none;
+  background: #edf6f1 !important;
+  color: #4A4747 !important;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+#main.dashboard,
+#dashboard {
+  margin-top: 0em;
+}
+
+.reading h4.viewed,
+.bookmark .user,
+.home .header h2,
+.splash .module h3,
+.splash .news li,
+dl.meta,
+li.comment,
+#header .menu li,
+#dashboard ul,
+#dashboard .secondary,
+ul.notes,
+.flash,
+.notice,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #2e5a5b;
+}
+
+#main .verbose legend,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+.verbose fieldset,
+.draft,
+form ul.notes,
+#modal,
+.ui-sortable li,
+.comment_notice,
+.kudos_notice,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background-color: #a7b4b4;
+  border-color: #2e5a5b;
+}
+
+.flash,
+.notice {
+  background-color: #b7b4b4;
+}
+
+form .notice,
+ul.notes,
+.caution {
+  background: #D4B4A1;
+  border-color: #000;
+}
+
+.error,
+.comment_error,
+.kudos_error,
+.alert.flash {
+  background: #efd1d1;
+  color: #000;
+  border-color: #900;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.comment h4.byline,
+.listbox,
+.dropdown,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.required .autocomplete {
+  background-color: #bac8c8;
+}
+
+.filters .submit input {
+  color: #FFF;
+  background: #6d7f85;
+  box-shadow: 0 0 4px #000;
+  border: none;
+}
+
+li.blurb,
+.listbox li.blurb,
+li.comment,
+.statistics .index li:nth-of-type(even),
+dl.meta,
+dl.index dd,
+#ibox_wrapper,
+#ibox_content,
+textarea:focus,
+input:focus,
+select:focus {
+  background-color: #f7f6f4;
+}
+
+.work.own,
+.thread .even,
+li.relationships a,
+.reading h4.viewed,
+.bookmark .user,
+.bookmark .user .header {
+  background: #e5e2db;
+}
+
+textarea,
+input,
+select,
+option,
+.toggled form,
+.dynamic form,
+.autocomplete .dropdown ul,
+.autocomplete .dropdown ul li,
+.autocomplete input {
+  background-color: #fff;
+}
+
+li.blurb,
+.listbox li.blurb {
+  box-shadow: 0px 0px 6px #000;
+  border: 1px solid #2e5a5b;
+}
+
+.blurb .header {
+  border-bottom: 1px solid #2e5a5b;
+}
+
+.blurb .datetime {
+  color: #FFF;
+  background: #6d7f85;
+}
+
+.bookmark .user .datetime {
+  background-color: #e5e2db;
+  color: #000;
+}
+
+.bookmark .user .module {
+  border: none;
+}
+
+.reading h4.viewed,
+.bookmark .user {
+  box-shadow: none;
+}
+
+.reading h4.viewed {
+  border: 1px dashed #2e5a5b;
+}
+
+.icon img,
+.comment .icon .visitor {
+  background-color: #fff;
+  height: 80px;
+  width: 80px;
+  padding: 0px;
+  margin: 0px;
+  border: 4px solid transparent;
+}
+
+.comment .icon .visitor {
+  background-color: #FFF;
+  background-image: url("https://archiveofourown.org/images/skins/iconsets/default/icon_user.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 80px 80px;
+  width: auto;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+#workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 95%;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2.7em;
+  color: #780514;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+#header h2 {
+  background-color: #B85C48 !important;
+}
+
+#dashboard ul {
+  background: transparent;
+  border: none;
+}
+
+#dashboard .secondary {
+  background-color: #fff;
+  box-shadow: none;
+}
