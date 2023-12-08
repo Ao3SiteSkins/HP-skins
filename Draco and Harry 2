@@ -1,0 +1,534 @@
+#header h1 sup,
+#header .button,
+#greeting p.icon,
+#header .logo {
+  display: none;
+}
+
+#header,
+#inner.wrapper {
+  margin: 0 2% 0 30%;
+}
+
+#outer.wrapper {
+  background-color: #918f8a;
+  background-image: url("https://i.ibb.co/yfkyddQ/e-J3d-LKQv-o-1.png"), url("https://i.ibb.co/98rSxqg/Fon-Bricks.png");
+  background-repeat: no-repeat, repeat;
+  background-position: left bottom, left top;
+  background-attachment: fixed, fixed;
+  background-size: auto 100%, auto;
+}
+
+#inner.wrapper {
+  border: 1px solid #d6d3d4;
+  background-color: #51555d;
+  padding: 80px 10px 10px 10px;
+  box-shadow: 0 0 30px #000;
+}
+
+#main,
+body,
+.listbox .index {
+  background: #beb9bb;
+}
+
+body,
+#main,
+#main a,
+input[type="submit"],
+.actions a:visited,
+.action,
+button,
+.actions label {
+  color: #40444A;
+}
+
+.blurb h4 a:link {
+  color: #900 !important;
+}
+
+#header #search .text {
+  width: 80%;
+  margin-top: 6px;
+}
+
+#footer {
+  float: left;
+  background: none;
+  border: none;
+  margin-left: 30%;
+  width: 70%;
+  color: #fff;
+}
+
+#footer h4,
+#footer .menu,
+#footer a {
+  color: #fff !important;
+}
+
+#header .heading {
+  height: 200px;
+  background: none;
+}
+
+#header {
+  background: none;
+}
+
+#header .primary {
+  box-shadow: none;
+  background: #beb9bb;
+  height: 35px;
+  width: 98%;
+  margin-left: 10px;
+  position: absolute;
+  left: 0px;
+  top: 240px;
+  border: 1px solid #51555d;
+}
+
+#header .heading a {
+  color: #d6d3d4;
+  position: absolute;
+  right: 0px;
+  top: 150px;
+  padding: 10px;
+  background: #51555d;
+  border-top: 1px solid #d6d3d4;
+  border-right: 1px solid #d6d3d4;
+  border-left: 1px solid #d6d3d4;
+  border-top-left-radius: 30px;
+}
+
+#greeting {
+  background: none;
+  height: 35px;
+  margin-top: 10px;
+}
+
+#header .primary li,
+#header .primary li a {
+  color: #40444A !important;
+}
+
+#greeting li,
+#greeting li a {
+  color: #d6d3d4 !important;
+}
+
+#greeting li {
+  background: #51555d;
+  border: 2px solid #d6d3d4;
+  border-radius: 20px;
+  padding: 0.35em;
+  margin-right: 2.5em !important;
+  box-shadow: 0 0 30px #000;
+}
+
+#greeting .dropdown .menu li {
+  margin: 0 0.125em !important;
+}
+
+#greeting li:last-child {
+  margin-right: 0em !important;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #989496;
+}
+
+.splash .module h3 {
+  border-bottom: 1px solid #51555d;
+}
+
+.splash .news li {
+  border-bottom: 1px dashed #51555d;
+}
+
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  color: #40444A;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+a.tag:hover,
+a.tag:focus,
+#dashboard a:hover,
+#dashboard a:focus,
+#dashboard .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  background: #51555d !important;
+  color: #d6d3d4 !important;
+}
+
+#dashboard,
+#dashboard.own,
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .dropdown .menu a,
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#greeting .dropdown .menu a {
+  background: #d8d5d6 !important;
+  color: #40444A !important;
+}
+
+#dashboard,
+#dashboard.own {
+  border: 2px solid #51555d;
+  box-shadow: 0 0 10px #000;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px solid #51555d;
+}
+
+#greeting .actions a:hover,
+#greeting .actions a:focus,
+#greeting .dropdown:hover a,
+#greeting .dropdown:focus a,
+#greeting .open a {
+  border-radius: 20px !important;
+  padding: 0.5em;
+}
+
+#greeting .current,
+#greeting .dropdown:hover li,
+#greeting .dropdown:focus li {
+  border-radius: 0px;
+  padding: 0.35em;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background: #d8d5d6 !important;
+  color: #40444A !important;
+  box-shadow: none;
+}
+
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  border-radius: 0px !important;
+}
+
+#header .menu li,
+ul.notes,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #51555d;
+}
+
+#main .verbose legend,
+.verbose fieldset,
+#modal,
+.ui-sortable li,
+.comment_notice,
+.kudos_notice,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background: #b9bbbe;
+  border: 2px solid #51555d;
+}
+
+.notice {
+  background: #51555d;
+  color: #d6d3d4;
+  border: 1px solid #000;
+}
+
+.notice a {
+  color: #d6d3d4 !important;
+}
+
+form .notice,
+.caution {
+  background: #c7b3b6;
+  color: #000;
+  border-color: #51555d;
+}
+
+.error,
+.comment_error,
+.kudos_error,
+.alert.flash {
+  background: #efd1d1;
+  color: #000;
+  border-color: #900;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.required .autocomplete,
+.comment h4.byline {
+  background: #c7c8cb;
+}
+
+select,
+input,
+textarea,
+#ibox_wrapper,
+#ibox_content,
+li.blurb,
+.listbox li.blurb,
+dl.meta,
+li.comment,
+p.kudos,
+.statistics .index li:nth-of-type(even),
+dl.index dd {
+  background-color: #e5e3e3;
+}
+
+.filters .submit input {
+  background: #51555d;
+  color: #d6d3d4;
+  border: 1px solid #000;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+input:focus,
+.toggled form,
+.dynamic form,
+.thread .even,
+.autocomplete .dropdown ul,
+.autocomplete .dropdown ul li,
+.autocomplete input {
+  background: #f2f1f1;
+}
+
+li.relationships a,
+.bookmark .user,
+.reading h4.viewed,
+.work .own,
+draft,
+.draft .wrapper,
+.unread,
+.unwrangled,
+.unreviewed {
+  background: #d8d5d6;
+}
+
+p.kudos {
+  font-size: 95%;
+  margin-top: 15px;
+  border: 2px dotted #51555d;
+}
+
+li.blurb,
+.listbox li.blurb {
+  box-shadow: 0px 0px 10px #000;
+  border: 2px solid #51555d;
+}
+
+dl.meta {
+  border-left: 1px dashed #51555d;
+  border-right: 1px dashed #51555d;
+  border-top: 2px solid #51555d;
+  border-bottom: 2px solid #51555d;
+}
+
+li.comment {
+  border-left: 1px solid #51555d;
+  border-right: 1px solid #51555d;
+  border-top: 4px solid #51555d;
+  border-bottom: 2px solid #51555d;
+}
+
+#main .wrapper {
+  box-shadow: none;
+}
+
+.icon img,
+.comment .icon .visitor {
+  background-color: #fff;
+  height: 80px;
+  width: 80px;
+  padding: 0px;
+  margin: 0px;
+  border: 4px solid transparent;
+}
+
+.comment .icon .visitor {
+  background-color: #FFF;
+  background-image: url("https://archiveofourown.org/images/skins/iconsets/default/icon_user.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 80px 80px;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2em;
+  color: #8a242c;
+}
+
+#workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+li.blurb .module {
+  border-bottom: 2px solid #51555d;
+}
+
+.reading .user,
+.bookmark .user .module,
+.bookmark .dynamic {
+  border: none !important;
+}
+
+.reading h4.viewed,
+.bookmark .user {
+  border: 1px dashed #322618 !important;
+  box-shadow: none;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+#header h2 {
+  background-color: #8a242c !important;
+  height: 40px !important;
+  width: 98%;
+  position: absolute;
+  top: 240px;
+}
