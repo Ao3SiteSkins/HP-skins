@@ -1,0 +1,517 @@
+#header,
+#inner.wrapper {
+  margin: 0px 70px;
+}
+
+#header h1 sup,
+#header .button,
+#greeting p.icon,
+#header .logo {
+  display: none;
+}
+
+#main,
+#inner,
+body,
+th,
+tr:hover,
+col.name,
+form blockquote.userstuff,
+fieldset fieldset,
+fieldset dl dl,
+input:focus,
+select:focus,
+textarea:focus,
+.autocomplete div.dropdown ul,
+#ui-datepicker-div,
+#ibox_wrapper,
+#ibox_content,
+.toggled form,
+.dynamic form,
+.secondary,
+.listbox .index,
+.dashboard .listbox .index,
+.nomination dt {
+  background: #fdf9e9;
+}
+
+#outer.wrapper {
+  padding-top: 220px;
+}
+
+#outer.wrapper,
+#footer {
+  background: #E3D9C0 url("https://images2.imgbox.com/2b/be/mmg8VW9z_o.png") repeat;
+}
+
+#footer {
+  float: none;
+  border: none;
+}
+
+#footer h4,
+#footer .menu {
+  color: #fff !important;
+  background: #7c0100;
+  border: 2px solid #FFFEE7;
+  padding-left: 5px;
+}
+
+#footer a {
+  color: #fff !important;
+}
+
+#header {
+  background: #7c0100;
+  border-top: 2px solid #7c0100;
+  border-left: 2px solid #7c0100;
+  border-right: 2px solid #7c0100;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+}
+
+#inner.wrapper {
+  border: 2px solid #7c0100;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  overflow: hidden;
+}
+
+#header .heading {
+  height: 40px;
+  background: none;
+}
+
+#header .primary {
+  background: #fdf9e9;
+  height: 50px;
+  box-shadow: none;
+  position: absolute;
+  top: -220px;
+  border: 2px solid #7c0100;
+  border-radius: 40px;
+}
+
+#header h1 span {
+  color: #fdf9e9;
+  text-shadow: 0.5px 0.5px 0.5px black;
+  margin-left: 1.5em;
+}
+
+#header #search .text {
+  margin-top: 15px;
+  width: 80%;
+}
+
+#greeting {
+  background: none;
+  height: 40px;
+  float: left;
+  position: absolute;
+  top: -190px;
+  left: 70px;
+}
+
+#greeting li {
+  background: #7c0100;
+  border: 2px solid #fdf9e9;
+  border-radius: 40px;
+}
+
+#greeting li a {
+  color: #fff !important;
+}
+
+#header .primary li a {
+  color: #000 !important;
+}
+
+#greeting .menu {
+  left: 0;
+}
+
+.splash .module h3 {
+  border-bottom: 4px solid #7c0100;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+
+.splash span.link {
+  padding-right: 10px;
+}
+
+.splash .link a {
+  border-bottom: none;
+}
+
+.splash .news li {
+  border-bottom: 1px dashed #7c0100;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #E3D9C0;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px solid #7c0100;
+}
+
+#header .dropdown:hover a {
+  color: #000 !important;
+  border-radius: 10px;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#header .dropdown .menu a,
+#greeting .dropdown .menu a {
+  background: #FFFEE7 !important;
+  color: #000 !important;
+}
+
+#dashboard a:hover,
+#dashboard .current,
+#header .user a:focus,
+#header .user a:hover,
+#header .user .current,
+#header .dropdown .menu a:focus,
+#greeting .dropdown .menu a:focus {
+  background: #FFFEE7 !important;
+  color: #000 !important;
+}
+
+#header .dropdown .menu a:hover,
+#greeting .dropdown .menu a:hover,
+#dashboard a:hover,
+#dashboard.own a:hover {
+  background: #7c0100 !important;
+  color: #fff !important;
+}
+
+#dashboard,
+#dashboard.own {
+  background: #E3D9C0 !important;
+}
+
+#dashboard .current {
+  border: 2px solid #7c0100;
+  border-radius: 10px;
+}
+
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox,
+#header ul.primary .current {
+  border-color: #7c0100;
+}
+
+#dashboard,
+#dashboard.own,
+.error,
+.comment_error,
+.kudos_error,
+#header ul.primary,
+.LV_invalid,
+.LV_invalid_field,
+input.LV_invalid_field:hover,
+input.LV_invalid_field:active,
+textarea.LV_invalid_field:hover,
+textarea.LV_invalid_field:active,
+#header .primary a,
+#header .primary .current,
+#header .primary input,
+#header .search input {
+  border-color: #7c0100 !important;
+}
+
+#main .verbose legend,
+.verbose fieldset,
+.notice,
+ul.notes,
+#modal,
+.ui-sortable li,
+.required .autocomplete,
+.autocomplete .notice,
+.announcement .userstuff,
+.system .intro,
+.flash,
+.alert.flash,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background: #7c0100;
+  border: 2px solid #fdf9e9;
+  border-radius: 10px;
+  color: #fff !important;
+}
+
+#main .verbose legend a,
+.announcement .userstuff a,
+.verbose fieldset a,
+.notice a,
+.ui-sortable li a,
+.required .autocomplete a,
+.autocomplete .notice a,
+.system .intro a,
+.flash a,
+.alert.flash a {
+  color: #fff;
+}
+
+#main .verbose fieldset a {
+  color: #000;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+form blockquote.userstuff,
+.secondary form {
+  background: #E3D9C0;
+  color: #000;
+  border-radius: 10px;
+}
+
+form.filters,
+.filters .expander,
+form.filters a,
+fieldset dl {
+  color: #000;
+}
+
+select,
+.toggled form,
+.dynamic form,
+input,
+textarea,
+.listbox .index,
+#ibox_wrapper,
+#ibox_content,
+.thread .even {
+  background: #fdf9e9;
+  color: #000;
+}
+
+.filters .submit input {
+  background: #fdf9e9;
+  color: #000;
+}
+
+#feedback fieldset {
+  border-radius: 0px;
+}
+
+.filters fieldset {
+  border-radius: 20px;
+}
+
+.icon img,
+.comment .icon .visitor {
+  background-color: #fff;
+  height: 80px;
+  width: 80px;
+  padding: 0px;
+  margin: 0px;
+  border: 2px solid transparent;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 0 #000;
+}
+
+.comment .icon .visitor {
+  background-color: #FFF;
+  background-image: url("https://archiveofourown.org/images/skins/iconsets/default/icon_user.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 80px 80px;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+.comment h4.byline {
+  background: #E3D9C0;
+}
+
+li.comment,
+#main .wrapper {
+  border-bottom: 2px solid #7c0100;
+  border-top: 2px solid #7c0100;
+  border-left: 1px dashed #7c0100;
+  border-right: 1px dashed #7c0100;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+#workskin .notes,
+dl.meta,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+p.kudos {
+  font-size: 95%;
+  margin-top: 15px;
+}
+
+#workskin h2 {
+  font-size: 2.143em;
+  color: #7c0100;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+li.blurb {
+  border-bottom: 8px solid #7c0100;
+  border-radius: 20px;
+  border-top: 8px solid #7c0100;
+  border-left: 1px dashed #7c0100;
+  border-right: 1px dashed #7c0100;
+  box-shadow: 0 0 5px #000;
+}
+
+li.relationships a,
+dl.index dd,
+.reading h4.viewed {
+  background: #e5e1cf;
+}
+
+.reading h4.viewed {
+  font-size: 95%;
+  border: none;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-weight: bold;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-weight: bold;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-weight: bold;
+}
+
+#header h2 {
+  background-color: #fef8d7 !important;
+  color: #7c0100 !important;
+}
+
+.bookmark .user,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed {
+  background: #fef8d7;
+}
+
+.bookmark .user {
+  border-radius: 10px;
+  border: 1px solid #7c0100;
+}
