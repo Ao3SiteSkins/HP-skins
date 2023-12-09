@@ -1,0 +1,544 @@
+#header,
+#inner.wrapper {
+  margin: 0em;
+}
+
+#header h1 sup,
+#header .button,
+#greeting p.icon,
+#header .logo {
+  display: none;
+}
+
+#main,
+body,
+.listbox .index {
+  background: #dce4e1;
+}
+
+body,
+#main,
+#main a,
+input[type="submit"],
+.actions a:visited,
+.action,
+button,
+.actions label {
+  color: #002c1d;
+}
+
+.blurb h4 a:link {
+  color: #900 !important;
+}
+
+#footer {
+  border: none;
+  background: none;
+}
+
+#footer h4,
+#footer .menu {
+  color: #002c1d !important;
+  background: #dce4e1;
+  border: 2px solid #1f4b4c;
+  padding-left: 5px;
+}
+
+#footer a {
+  color: #002c1d !important;
+}
+
+#outer.wrapper {
+  padding-top: 220px;
+}
+
+
+
+#outer.wrapper {
+  background-color: #2C4F4B;
+  background-image: url("https://i.ibb.co/59JMmKp/Slytherin-background.png");
+  background-repeat: repeat;
+  background-position: left top;
+  background-size: auto 200px;
+}
+
+#inner.wrapper {
+  padding: 40px 10px 10px 10px;
+  background: #1f4b4c;
+  border: 1px solid #dce4e1;
+}
+
+#inner.wrapper {
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
+}
+
+#main {
+  border-radius: 20px;
+}
+
+#header {
+  background: none;
+}
+
+#header .heading {
+  height: 40px;
+  float: right;
+  background: #1f4b4c;
+  border-top: 1px solid #dce4e1;
+  border-right: 1px solid #dce4e1;
+  border-left: 1px solid #dce4e1;
+  border-top-left-radius: 20px;
+}
+
+#header .primary {
+  background: #dce4e1;
+  color: #002c1d;
+  height: 45px;
+  box-shadow: none;
+  position: absolute;
+  top: -220px;
+  border: 2px solid #1f4b4c;
+  border-radius: 20px;
+  width: 99%;
+}
+
+#header .primary > li:first-of-type {
+  margin-left: 0.6em;
+}
+
+#header .heading a {
+  color: #fdf9e9;
+  text-shadow: 0.5px 0.5px 0.5px black;
+}
+
+#header #search .text {
+  width: 60%;
+}
+
+#header .search {
+  float: left;
+  margin-top: 2px;
+}
+
+#greeting {
+  background: none;
+  height: 40px;
+  float: right;
+  position: absolute;
+  top: -195px;
+  right: -5px;
+}
+
+#greeting li {
+  background: #1f4b4c;
+  border: 2px solid #dce4e1;
+  border-radius: 20px;
+}
+
+#greeting li,
+#greeting li a {
+  color: #fdf9e9 !important;
+  text-align: right;
+}
+
+#header .primary li,
+#header .primary li a {
+  color: #002c1d !important;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #E3E9E7;
+}
+
+.splash .module h3 {
+  border-bottom: 1px solid #1f4b4c;
+}
+
+.splash .news li {
+  border-bottom: 1px dashed #1f4b4c;
+}
+
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  color: #2C4F4B;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+a.tag:hover,
+a.tag:focus,
+#dashboard a:hover,
+#dashboard a:focus,
+#dashboard .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  background: #1f4b4c !important;
+  color: #fdf9e9 !important;
+}
+
+#dashboard,
+#dashboard.own,
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .dropdown .menu a,
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#greeting .dropdown .menu a {
+  background: #98b7a9 !important;
+  color: #002c1d !important;
+}
+
+#dashboard,
+#dashboard.own {
+  border: 2px solid #000;
+  box-shadow: 0 0 10px #000;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px solid #dce4e1;
+}
+
+#greeting .actions a:hover,
+#greeting .actions a:focus,
+#greeting .dropdown:hover a,
+#greeting .dropdown:focus a,
+#greeting .open a {
+  border-radius: 20px !important;
+}
+
+#greeting .current,
+#greeting .dropdown:hover li,
+#greeting .dropdown:focus li {
+  border-radius: 0%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background: #98b7a9 !important;
+  color: #002c1d !important;
+}
+
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  border-radius: 0% !important;
+}
+
+#header .menu li,
+ul.notes,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #1f4b4c;
+}
+
+#main .verbose legend,
+.verbose fieldset,
+#modal,
+.ui-sortable li,
+.comment_notice,
+.kudos_notice,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background: #949d94;
+  border: 2px solid #1f4b4c;
+}
+
+.notice {
+  background: #1f4b4c;
+  color: #fdf9e9 !important;
+  border: 1px solid #000;
+}
+
+.notice a {
+  color: #fdf9e9 !important;
+}
+
+
+form .notice,
+.caution {
+  background: #98b7a9 !important;
+  color: #002c1d !important;
+  border-color: #1f4b4c;
+}
+
+
+.alert.flash,
+.error,
+.comment_error,
+.kudos_error {
+  background: #efd1d1;
+  color: #000;
+  border-color: #900;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.required .autocomplete,
+.comment h4.byline {
+  background: #afbcb7;
+}
+
+.filters .submit input {
+  background: #1f4b4c !important;
+  color: #fdf9e9 !important;
+  border: 1px solid #000;
+}
+
+li.blurb,
+.listbox li.blurb,
+dl.meta,
+p.kudos,
+.statistics .index li:nth-of-type(even),
+dl.index dd {
+  background-color: #CBDAD3;
+}
+
+input,
+select,
+textarea,
+.autocomplete .dropdown ul,
+.autocomplete .dropdown ul li,
+.autocomplete input,
+#ibox_wrapper,
+#ibox_content,
+li.comment {
+  background: #dce4e1;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+.thread .even,
+.toggled form,
+.dynamic form {
+  background: #ecf1ef;
+}
+
+li.relationships a,
+draft,
+.draft .wrapper,
+.unread,
+.unwrangled,
+.unreviewed {
+  background: #ACC5BA;
+}
+
+.work .own,
+.bookmark .user,
+.reading h4.viewed {
+  background: #ACC5BA;
+}
+
+p.kudos {
+  font-size: 95%;
+  margin-top: 15px;
+  border: 2px dotted #1f4b4c;
+}
+
+li.blurb,
+.listbox li.blurb {
+  box-shadow: 0px 0px 5px #000;
+  border: 1px solid #1f4b4c;
+  border-top-right-radius: 20px;
+}
+
+dl.meta,
+li.comment {
+  border-left: 2px dotted #1f4b4c;
+  border-right: 2px dotted #1f4b4c;
+  border-top: 2px solid #1f4b4c;
+  border-bottom: 2px solid #1f4b4c;
+}
+
+#main .wrapper {
+  box-shadow: none;
+}
+
+.icon img,
+.comment .icon .visitor {
+  background-color: #fff;
+  height: 80px;
+  width: 80px;
+  padding: 0px;
+  margin: 0px;
+  border: 4px solid transparent;
+}
+
+.comment .icon .visitor {
+  background-color: #FFF;
+  background-image: url("https://archiveofourown.org/images/skins/iconsets/default/icon_user.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 80px 80px;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2em;
+  color: #854354;
+}
+
+#workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+li.blurb .module {
+  border-bottom: 2px solid #98b7a9;
+}
+
+.reading .user,
+.bookmark .user .module,
+.bookmark .dynamic {
+  border: none !important;
+}
+
+.reading h4.viewed,
+.bookmark .user {
+  border: 1px dashed #1f4b4c !important;
+  box-shadow: none;
+  border-radius: 0px;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+#header h2 {
+  background-color: #854354 !important;
+}
