@@ -1,0 +1,426 @@
+#header,
+#inner.wrapper {
+  margin: 0px 5px;
+}
+
+#header h1 sup,
+#header .button,
+#greeting p.icon,
+#header #search,
+#header .logo {
+  display: none;
+}
+
+#outer.wrapper {
+  padding-top: 10px;
+}
+
+#main,
+#inner,
+body,
+th,
+tr:hover,
+col.name,
+fieldset fieldset,
+fieldset dl dl,
+form blockquote.userstuff,
+input:focus,
+select:focus,
+textarea:focus,
+.autocomplete div.dropdown ul,
+#ui-datepicker-div,
+#ibox_wrapper,
+#ibox_content,
+.toggled form,
+.dynamic form,
+.secondary,
+.listbox .index,
+.dashboard .listbox .index,
+.nomination dt {
+  background: #dce4e1;
+}
+
+body,
+#main a,
+input[type="submit"],
+.actions a:visited,
+.action,
+button,
+.actions label {
+  color: #002c1d;
+}
+
+#outer.wrapper,
+#footer {
+  background: #38635e;
+}
+
+#header .heading {
+  height: 200px;
+  float: left;
+  background: none;
+  margin-left: 5px;
+  width: 70px;
+}
+
+#header .heading a {
+  color: #fff;
+  font-size: 1.1em;
+  font-family: Arial;
+  line-height: 0.8em;
+}
+
+#inner.wrapper {
+  box-shadow: 0 0 30px #000;
+}
+
+#header {
+  background: #38635e url("https://i.imgur.com/0ki6gpY.png") right center no-repeat;
+  background-size: cover;
+  box-shadow: 0 0 30px #000;
+}
+
+#header .primary {
+  box-shadow: none;
+  background: none;
+}
+
+#footer {
+  float: none;
+  border: none;
+}
+
+.splash .news li {
+  border-bottom: 1px dashed #38635e;
+}
+
+.splash .news li a {
+  color: #04432e;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #949d94;
+  color: #fff !important;
+}
+
+#greeting {
+  height: 35px;
+  background: none;
+  position: absolute;
+  right: 0px;
+  top: 180px;
+  color: #fff;
+}
+
+#greeting li a {
+  color: #fff !important;
+}
+
+#header .dropdown:hover a {
+  color: #04432e !important;
+}
+
+#dashboard,
+#dashboard.own,
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#header .dropdown .menu a,
+#greeting .dropdown .menu a {
+  background: #98b7a9 !important;
+  color: #04432e !important;
+}
+
+#dashboard a:hover,
+#dashboard .current,
+#header .user a:hover,
+#header .user a:focus,
+#header .user .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus,
+#greeting .dropdown .menu a:hover,
+#greeting .dropdown .menu a:focus {
+  background: #dce4e1 !important;
+  color: #04432e !important;
+}
+
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox,
+#header ul.primary .current {
+  border-color: #38635e;
+}
+
+#dashboard,
+#dashboard.own,
+.error,
+.comment_error,
+.kudos_error,
+#header ul.primary,
+.LV_invalid,
+.LV_invalid_field,
+input.LV_invalid_field:hover,
+input.LV_invalid_field:active,
+textarea.LV_invalid_field:hover,
+textarea.LV_invalid_field:active,
+#header .primary a,
+#header .primary .current,
+#header .primary input,
+#header .search input {
+  border-color: #38635e !important;
+}
+
+#main .verbose legend,
+.verbose fieldset,
+.notice,
+ul.notes,
+#modal,
+.ui-sortable li,
+.required .autocomplete,
+.autocomplete .notice,
+.system .intro,
+.flash,
+.alert.flash,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background: #98b7a9;
+  color: #000;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.announcement .userstuff,
+.secondary form {
+  background: #949d94;
+}
+
+form.filters,
+.filters .expander,
+form.filters a,
+fieldset dl {
+  color: #fff;
+}
+
+select,
+.toggled form,
+.dynamic form,
+input,
+textarea,
+.listbox .index,
+#ibox_wrapper,
+#ibox_content,
+.thread .even {
+  background: #dce4e1;
+}
+
+.filters .submit input {
+  background: #dce4e1;
+}
+
+.icon img,
+.comment .icon .visitor {
+  background-color: #fff;
+  height: 80px;
+  width: 80px;
+  padding: 0px;
+  margin: 0px;
+  border: 4px solid transparent;
+}
+
+li.blurb,
+li.comment,
+#main .wrapper {
+  border-bottom: 2px solid #38635e;
+  border-top: 2px solid #38635e;
+  border-left: 1px dashed #38635e;
+  border-right: 1px dashed #38635e;
+}
+
+.comment .icon .visitor {
+  background-color: #FFF;
+  background-image: url("https://archiveofourown.org/images/skins/iconsets/default/icon_user.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 80px 80px;
+}
+
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+.comment h4.byline {
+  background: #949d94;
+  color: #fff;
+}
+
+.comment h4.byline a {
+  color: #fff !important;
+}
+
+#workskin .notes,
+dl.meta,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+p.kudos {
+  font-size: 95%;
+  margin-top: 15px;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2.143em;
+  color: #854354;
+}
+
+li.blurb {
+  box-shadow: 0 0 5px #000;
+}
+
+.blurb h4 a:link {
+  color: #900 !important;
+}
+
+.bookmark .user,
+.reading h4.viewed {
+  font-size: 90%;
+  border: none;
+  background: #98b7a9;
+}
+
+dl.index dd {
+  background: #98b7a9;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-weight: bold;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-weight: bold;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-weight: bold;
+}
+
+#header h2 {
+  background-color: #38635e !important;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus {
+  background: #38635e;
+  color: #fff;
+}
+
+a.tag:hover,
+.listbox .heading a.tag:visited:hover {
+  background: #98b7a9;
+  color: #002c1d;
+}
