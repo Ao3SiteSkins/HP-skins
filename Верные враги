@@ -1,0 +1,404 @@
+#header,
+#inner.wrapper {
+  margin: 0px 250px;
+}
+
+#header h1 sup,
+#header .button,
+#greeting p.icon,
+#header .logo {
+  display: none;
+}
+
+#main,
+#inner,
+body,
+th,
+tr:hover,
+col.name,
+fieldset fieldset,
+fieldset dl dl,
+form blockquote.userstuff,
+input:focus,
+select:focus,
+textarea:focus,
+.autocomplete div.dropdown ul,
+#ui-datepicker-div,
+#ibox_wrapper,
+#ibox_content,
+.toggled form,
+.dynamic form,
+.secondary,
+.listbox .index,
+.dashboard .listbox .index,
+.nomination dt {
+  background: #f4f4e9;
+}
+
+#outer.wrapper {
+  background-color: #151419;
+  background-image: url("https://i.imgur.com/m5CeGLs.png");
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-attachment: fixed;
+  background-size: 100% auto;
+}
+
+#header {
+  background: none;
+  margin-bottom: 10px;
+}
+
+#greeting {
+  margin-top: 14px;
+}
+
+#header .primary {
+  box-shadow: none;
+  background: #c8b02a;
+}
+
+#footer {
+  float: left;
+  background: none;
+  border: none;
+  margin-left: 200px;
+  width: 70%;
+}
+
+#header #search .text {
+  margin-top: 6px;
+  width: 80%;
+}
+
+#header h1 span {
+  color: #f4f4e9;
+  text-shadow: 0.5px 0.5px 0.5px black;
+  margin-left: 1.5em;
+  font-size: 16px;
+}
+
+#greeting li,
+#greeting li a {
+  color: #daddd7 !important;
+}
+
+.splash .module h3 {
+  border-bottom: 2px solid #000;
+}
+
+.splash .news li {
+  border-bottom: 1px dashed #000;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #c4c6c1;
+}
+
+#header .dropdown:hover a {
+  color: #000 !important;
+}
+
+#dashboard,
+#dashboard.own {
+  background: #daddd7;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#header .dropdown .menu a,
+#greeting .dropdown .menu a {
+  background: #c4c6c1 !important;
+  color: #000 !important;
+}
+
+#dashboard a:hover,
+#dashboard .current,
+#header .user a:hover,
+#header .user a:focus,
+#header .user .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus,
+#greeting .dropdown .menu a:hover,
+#greeting .dropdown .menu a:focus {
+  background: #f4f4e9 !important;
+  color: #000 !important;
+}
+
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox,
+#header ul.primary .current {
+  border-color: #000;
+}
+
+#dashboard,
+#dashboard.own,
+.error,
+.comment_error,
+.kudos_error,
+#header ul.primary,
+.LV_invalid,
+.LV_invalid_field,
+input.LV_invalid_field:hover,
+input.LV_invalid_field:active,
+textarea.LV_invalid_field:hover,
+textarea.LV_invalid_field:active,
+#header .primary a,
+#header .primary .current,
+#header .primary input,
+#header .search input {
+  border-color: #c8b02a !important;
+}
+
+#main .verbose legend,
+.verbose fieldset,
+.notice,
+ul.notes,
+#modal,
+.ui-sortable li,
+.required .autocomplete,
+.autocomplete .notice,
+.system .intro,
+.flash,
+.alert.flash,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background: #c4c6c1;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.announcement .userstuff,
+.secondary form {
+  background: #c4c6c1;
+}
+
+select,
+.toggled form,
+.dynamic form,
+input,
+textarea,
+.listbox .index,
+#ibox_wrapper,
+#ibox_content,
+.thread .even {
+  background: #f4f4e9;
+}
+
+.icon img,
+.comment .icon .visitor {
+  background-color: #fff;
+  height: 80px;
+  width: 80px;
+  padding: 0px;
+  margin: 0px;
+  border: 4px solid transparent;
+}
+
+.comment .icon .visitor {
+  background-color: #FFF;
+  background-image: url("https://archiveofourown.org/images/skins/iconsets/default/icon_user.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 80px 80px;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+.comment h4.byline {
+  background: #c4c6c1;
+}
+
+li.comment {
+  border-bottom: 2px solid #000;
+  border-top: 2px solid #000;
+  border-left: 1px dashed #000;
+  border-right: 1px dashed #000;
+  box-shadow: none;
+}
+
+#workskin .notes,
+dl.meta,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+p.kudos {
+  font-size: 95%;
+  margin-top: 15px;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2.143em;
+  color: #853613;
+}
+
+#main .wrapper,
+li.blurb {
+  border: 1px solid #c4c6c1;
+  border-top: 14px solid #c4c6c1;
+  box-shadow: 0 0 5px #000;
+}
+
+.bookmark .user,
+.reading h4.viewed {
+  font-size: 90%;
+  border: none;
+  background: #daddd7;
+}
+
+li.relationships a,
+dl.index dd,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed {
+  background: #daddd7;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-weight: bold;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-weight: bold;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-weight: bold;
+}
+
+#header h2 {
+  background-color: #585b54 !important;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus {
+  background: #c8b02a;
+  color: #000;
+}
+
+a.tag:hover,
+.listbox .heading a.tag:visited:hover {
+  background: #c8b02a;
+  color: #000;
+}
+
+.blurb h4 a:link {
+  color: #853613 !important;
+}
+
+.cloud a {
+  color: #484a44;
+}
