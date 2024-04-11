@@ -12,6 +12,9 @@ To use the skin, simply create "Site Skin" on https://archiveofourown.org and, n
 | ![Draco and Harry 2](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/DracoandHarry2.png "Draco and Harry 2") | <a href="https://archiveofourown.org/works/40817322">Draco and Harry 2</a> |
 | ![Slytherin](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/Slytherin.png "Slytherin") | <a href="https://archiveofourown.org/works/40816242">Slytherin</a> |
 | ![Gryffindor](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/Gryffindor.png "Gryffindor") | <a href="https://archiveofourown.org/works/40816821">Gryffindor</a> |
+| ![Loyal enemies](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/Gryffindor.png "Loyal enemies") | <a href="https://archiveofourown.org/works/36957469">Loyal enemies</a> |
+
+
 
 
 
