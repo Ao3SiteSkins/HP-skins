@@ -14,7 +14,7 @@ To use the skin, simply create "Site Skin" on https://archiveofourown.org and, n
 | ![Gryffindor](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/Gryffindor.png "Gryffindor") | <a href="https://archiveofourown.org/works/40816821">Gryffindor</a> |
 | ![Loyal enemies](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/Loyalenemies.png "Loyal enemies") | <a href="https://archiveofourown.org/works/36957469">Loyal enemies</a> |
 | ![Black Lake](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/BlackLake.jpg "Black Lake") | <a href="https://archiveofourown.org/works/36957250">Black Lake</a> |
-| ![Love is](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/BlackLake.jpg "Love is") | <a href="https://archiveofourown.org/works/36956677">Love is ..</a> |
+| ![Love is](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/Loveis.png "Love is") | <a href="https://archiveofourown.org/works/36956677">Love is ..</a> |
 
 
 
