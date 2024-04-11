@@ -10,5 +10,7 @@ To use the skin, simply create "Site Skin" on https://archiveofourown.org and, n
 | ![Drarry authors notebook](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/Drarryauthorsnotebook.png "Drarry authors notebook") | <a href="https://archiveofourown.org/works/44857570">Drarry authors' notebook</a> |
 | ![Draco and Harry 1](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/DracoandHarry1.png "Draco and Harry 1") | <a href="https://archiveofourown.org/works/40817322">Draco and Harry 1</a> |
 | ![Draco and Harry 2](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/DracoandHarry2.png "Draco and Harry 2") | <a href="https://archiveofourown.org/works/40817322">Draco and Harry 2</a> |
+| ![Slytherin](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/DracoandHarry2.png "Slytherin") | <a href="https://archiveofourown.org/works/40817322">Slytherin</a> |
+
 
 
