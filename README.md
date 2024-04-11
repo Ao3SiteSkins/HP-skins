@@ -8,3 +8,7 @@ To use the skin, simply create "Site Skin" on https://archiveofourown.org and, n
 | ![Hogsmeade](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/Hogsmeade.png "Hogsmeade") | <a href="https://archiveofourown.org/works/44863879">Hogsmeade</a> |
 | ![On the New Year Eve](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/OntheNewYearEve.png "On the New Year Eve") | <a href="https://archiveofourown.org/works/44863645">On the New Year Eve</a> |
 | ![Drarry authors notebook](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/Drarryauthorsnotebook.png "Drarry authors notebook") | <a href="https://archiveofourown.org/works/44857570">Drarry authors' notebook</a> |
+| ![Draco and Harry 1](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/Drarryauthorsnotebook.png "Draco and Harry 1") | <a href="https://archiveofourown.org/works/40817322">Draco and Harry 1</a> |
+| ![Draco and Harry 2](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/Drarryauthorsnotebook.png "Draco and Harry 2") | <a href="https://archiveofourown.org/works/40817322">Draco and Harry 2</a> |
+
+
