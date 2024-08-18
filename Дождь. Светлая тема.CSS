@@ -1,0 +1,533 @@
+#header h1 sup,
+#header .button,
+#header .landmark,
+#greeting .icon,
+#header .logo {
+  display: none;
+}
+
+#header,
+#inner.wrapper {
+  margin: 0em 4px;
+}
+
+#inner.wrapper {
+  margin-top: 40px;
+}
+
+#main,
+#inner {
+  background: none;
+}
+
+#outer.wrapper {
+  background-color: #3b4249;
+  background-image: url("https://images2.imgbox.com/fd/db/FNcOIHPS_o.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: auto 230px;
+}
+
+#header .heading {
+  background: none;
+  height: 280px;
+}
+
+#header .heading a {
+  text-align: left;
+  text-shadow: 1px 1px 1px #000;
+  color: #fff;
+  font-family: Arial;
+  font-style: italic;
+  position: absolute;
+  top: 225px;
+}
+
+#greeting {
+  background: none;
+  height: 35px;
+  position: absolute;
+  right: 0px;
+  top: 255px;
+}
+
+#greeting li,
+#greeting li a {
+  text-align: right;
+}
+
+#header .primary {
+  padding-top: 2px;
+  box-shadow: none;
+  background: #7B7C81;
+  border-bottom: 2px solid #abbeb0;
+  border-top: 2px solid #abbeb0;
+}
+
+#header .primary li:first-child {
+  margin-left: 0em;
+}
+
+#header .primary li,
+#header .primary li a,
+#greeting li,
+#greeting li a {
+  color: #D4DBE2 !important;
+}
+
+#greeting .menu {
+  width: 16em;
+}
+
+#header #search .text {
+  background: rgba(250, 250, 250, 0.6) !important;
+  border: 1px solid #abbeb0;
+}
+
+.splash .module h3 {
+  border-bottom: 4px solid #abbeb0;
+}
+
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  font-style: italic;
+  font-weight: bold;
+  color: #000;
+  text-align: left;
+  text-shadow: 1px 1px 1px #D4DBE2;
+}
+
+.splash .module h3 {
+  padding: 10px;
+  margin-top: 0;
+  border-top: 4px solid #abbeb0;
+  background: #7B7C81;
+}
+
+.splash .module {
+  background: #D4DBE2;
+  padding-bottom: 10px;
+  border: none;
+}
+
+.thread .even {
+  background: #D4DBE2;
+}
+
+.splash .module h3,
+.splash .module ul {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.splash .news li a {
+  color: #555;
+}
+
+.splash .favorite li:nth-of-type(odd) a,
+.comment h4.byline,
+dl.meta,
+dl.index dt,
+.splash .news .meta {
+  background: #a0a4aa;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+a.tag:hover,
+a.tag:focus,
+#dashboard a:hover,
+#dashboard a:focus,
+#dashboard .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  background: #3b4249 !important;
+  color: #fff !important;
+}
+
+#footer {
+  border: none;
+  float: left;
+  background: none;
+}
+
+#footer .module {
+  background: none !important;
+  border: none;
+}
+
+#footer h4,
+#footer .menu {
+  color: #D4DBE2 !important;
+  background: #3b4249;
+}
+
+#footer a {
+  color: #D4DBE2 !important;
+}
+
+#greeting .dropdown .menu li {
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  text-align: right !important;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .dropdown .menu a,
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#greeting .dropdown .menu a {
+  background: #D4DBE2 !important;
+  color: #000 !important;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px solid #abbeb0;
+}
+
+#greeting .current,
+#greeting .dropdown:hover li,
+#greeting .dropdown:focus li {
+  box-shadow: none;
+  background: #D4DBE2 !important;
+  color: #000 !important;
+}
+
+#dashboard.own,
+#dashboard {
+  background: #e5e9ed;
+  box-shadow: 0 0 2px #000;
+  color: #000;
+  border: 2px solid #abbeb0;
+}
+
+#dashboard ul {
+  background: transparent;
+  border: none;
+}
+
+#dashboard .secondary {
+  background-color: #fff;
+  box-shadow: none;
+}
+
+.splash .module h3,
+.splash .news li,
+.home .header h2,
+li.comment,
+dl.meta,
+.bookmark .user,
+#header .menu li,
+#dashboard ul,
+#dashboard .secondary,
+ul.notes,
+.flash,
+.notice,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #abbeb0;
+}
+
+#main .verbose legend,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+.verbose fieldset,
+.draft,
+form ul.notes,
+#modal,
+.ui-sortable li,
+.comment_notice,
+.kudos_notice,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background-color: #a0a4aa;
+  border-color: #abbeb0;
+}
+
+.flash,
+.notice {
+  background-color: #88988c;
+  color: #fff;
+  border-color: #000;
+}
+
+.flash a,
+.notice a {
+  color: #fff;
+}
+
+form .notice,
+ul.notes,
+.caution {
+  background-color: #E3D8C9;
+  color: #000;
+}
+
+.alert.flash,
+.error,
+.comment_error,
+.kudos_error {
+  background: #efd1d1;
+  color: #000;
+  border-color: #900;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+.home .primary,
+.bookmark .user,
+.bookmark .user .header,
+.dropdown,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.required .autocomplete {
+  background-color: #D4DBE2;
+}
+
+li.relationships a,
+.reading h4.viewed {
+  background-color: #a0a4aa;
+}
+
+.filters .submit input {
+  color: #FFF;
+  background: #474745;
+  box-shadow: 0 0 4px #000;
+  border: none;
+}
+
+div.bio.module,
+.index .blurb,
+li.blurb,
+.listbox li.blurb,
+li.comment,
+p.kudos,
+pre,
+#ibox_wrapper,
+#ibox_content,
+.statistics .index li:nth-of-type(even),
+dl.index dd,
+textarea:focus,
+input:focus,
+select:focus {
+  background-color: #e5e9ed;
+}
+
+textarea,
+input,
+select,
+option,
+.toggled form,
+.dynamic form,
+.autocomplete .dropdown ul,
+.autocomplete .dropdown ul li,
+.autocomplete input {
+  background-color: #fff;
+}
+
+li.blurb,
+.listbox li.blurb {
+  border: 2px solid #abbeb0;
+}
+
+.bookmark .user {
+  border: 1px dashed #abbeb0;
+}
+
+#workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 95%;
+}
+
+.icon {
+  border: 2px solid #fff;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+p.kudos {
+  font-size: 95%;
+  margin-top: 15px;
+  border: 2px solid #abbeb0;
+  background-color: #D4DBE2;
+}
+
+#workskin {
+  text-align: justify;
+  background: #e5e9ed;
+  margin-top: 10px;
+  padding: 0px 15px 0px 15px;
+  max-width: 100%;
+  border: 2px solid #abbeb0;
+}
+
+#workskin h2 {
+  font-size: 2.143em;
+}
+
+.blurb h4 a:link {
+  color: #900 !important;
+}
+
+#workskin h2,
+.preface h3 a {
+  color: #900;
+  background: transparent;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+p.notes,
+form ul.notes,
+.heading {
+  background: #bdc3c7;
+}
+
+#header h2 {
+  background-color: #616c90 !important;
+}
+
+.home .header h2 {
+  text-align: left;
+  padding-left: 10px;
+  color: #fff !important;
+  background: #3b4249;
+}
+
+.home .header h2 a {
+  color: #fff !important;
+}
