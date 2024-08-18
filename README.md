@@ -4,6 +4,7 @@ To use the skin, simply create "Site Skin" on https://archiveofourown.org and, n
 ### List of skins
 | Screenshots | Name and Link to Ao3 |
 | --- | --- |
+| ![Дождь. Темная тема](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/RainDark.png "Дождь. Темная тема") | <a href="https://archiveofourown.org/works/57859036">Дождь. Темная тема</a> |
 | ![Дождь. Светлая тема](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/RainLight.png "Дождь. Светлая тема") | <a href="https://archiveofourown.org/works/57858838">Дождь. Светлая тема</a> |
 | ![For the WTF Drarry 2023 Team](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/WTFDrarry2023Team.png "For the WTF Drarry 2023 Team") | <a href="https://archiveofourown.org/works/48248683">For the WTF Drarry 2023 Team</a> |
 | ![Hogsmeade](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/Hogsmeade.png "Hogsmeade") | <a href="https://archiveofourown.org/works/44863879">Hogsmeade</a> |
