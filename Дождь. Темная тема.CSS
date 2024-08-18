@@ -1,0 +1,239 @@
+#header h1 sup,
+#header .button,
+#header .landmark,
+#greeting .icon,
+#header .logo {
+  display: none;
+}
+
+#header,
+#inner.wrapper {
+  margin: 0em 4px;
+}
+
+#inner.wrapper {
+  margin-top: 40px;
+}
+
+#outer.wrapper {
+  background-color: #3b4249;
+  background-image: url("https://images2.imgbox.com/fd/db/FNcOIHPS_o.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: auto 230px;
+}
+
+#header .heading {
+  background: none;
+  height: 280px;
+}
+
+#header .heading a {
+  text-align: left;
+  text-shadow: 1px 1px 1px #000;
+  color: #D4DBE2 !important;
+  font-family: Arial;
+  font-style: italic;
+  position: absolute;
+  top: 225px;
+}
+
+#greeting {
+  background: none;
+  height: 35px;
+  position: absolute;
+  right: 0px;
+  top: 255px;
+}
+
+#greeting li,
+#greeting li a {
+  text-align: right;
+}
+
+#header .primary {
+  padding-top: 2px;
+  box-shadow: none;
+  background: #7B7C81;
+  border-bottom: 2px solid #abbeb0;
+  border-top: 2px solid #abbeb0;
+}
+
+#header .primary li:first-child {
+  margin-left: 0em;
+}
+
+#header .primary li,
+#header .primary li a,
+#greeting li,
+#greeting li a {
+  color: #D4DBE2 !important;
+}
+
+#greeting .menu {
+  width: 16em;
+}
+
+#header #search .text {
+  background: rgba(250, 250, 250, 0.6) !important;
+  border: 1px solid #abbeb0;
+}
+
+.splash .module h3 {
+  border-bottom: 4px solid #abbeb0;
+}
+
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  font-style: italic;
+  font-weight: bold;
+  color: #000;
+  text-align: left;
+  text-shadow: 1px 1px 1px #D4DBE2;
+}
+
+.splash .module h3 {
+  padding: 10px;
+  margin-top: 0;
+  border-top: 4px solid #abbeb0;
+  background: #7B7C81;
+}
+
+.splash .module {
+  padding-bottom: 10px;
+  border: none;
+}
+
+.splash .module h3,
+.splash .module ul {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#footer {
+  border: none;
+  float: left;
+  background: none !important;
+}
+
+#footer .module {
+  background: none !important;
+  border: none;
+}
+
+#footer h4,
+#footer .menu {
+  color: #D4DBE2 !important;
+  background: #3b4249;
+}
+
+#footer a {
+  color: #D4DBE2 !important;
+}
+
+#dashboard.own,
+#dashboard {
+  border: 2px solid #abbeb0;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #5998d6;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #5998d6;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #5998d6;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #5998d6;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #5998d6;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #5998d6;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #5998d6;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #5998d6;
+  font-size: 95%;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #5998d6;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #5998d6;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.icon {
+  border: 2px solid #fff;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+#workskin {
+  text-align: justify;
+}
