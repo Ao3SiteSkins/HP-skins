@@ -531,6 +531,13 @@ form ul.notes,
 .home .header h2 a {
   color: #fff !important;
 }
+
 div.collection.home.profile {
   background-color: #e5e9ed;
 }
+
+div#main.tags-index.dashboard.region,
+.tag.index.group {
+  background-color: #bdc3c7;
+}
+
