@@ -4,6 +4,7 @@ To use the skin, simply create "Site Skin" on https://archiveofourown.org and, n
 ### List of skins
 | Screenshots | Name and Link to Ao3 |
 | --- | --- |
+| ![Gardeners](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/uvRSNGH1_o.png "Gardeners") | <a href="https://archiveofourown.org/works/68859566">Gardeners</a> |
 | ![game](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/uvRSNGH1_o.png "Game") | <a href="https://archiveofourown.org/works/68860326">Game</a> |
 | ![Dear Santa...](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/DearSanta.png "Dear Santa...") | <a href="https://archiveofourown.org/works/62782738">Dear Santa...</a> |
 | ![Мечтатели](https://github.com/Ao3SiteSkins/HP-skins/blob/main/Screenshots/Mechtateli.png "Мечтатели") | <a href="https://archiveofourown.org/works/62782273">Мечтатели</a> |
